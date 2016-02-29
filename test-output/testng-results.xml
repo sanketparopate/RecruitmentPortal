@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66529" started-at="2016-02-14T04:06:05Z" finished-at="2016-02-14T04:07:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66529" started-at="2016-02-14T04:06:05Z" finished-at="2016-02-14T04:07:11Z">
+      <class name="com.edureka.testcase.ExecutionTest">
+        <test-method status="PASS" signature="executeTestScriptReturnTrueIfCompleted()[pri:0, instance:com.edureka.testcase.ExecutionTest@2752f6e2]" name="executeTestScriptReturnTrueIfCompleted" duration-ms="66502" started-at="2016-02-14T09:36:05Z" finished-at="2016-02-14T09:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestScriptReturnTrueIfCompleted -->
+      </class> <!-- com.edureka.testcase.ExecutionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
